@@ -1,3 +1,15 @@
-body {
+section {
+    text-align: center;
+}
+.bio {
     background-color: pink;
+}
+.bio p, .contact ul {
+    text-align: left;
+}
+img {
+    max-width: 500px;
+}
+.contact {
+    background-color: lightgray;
 }

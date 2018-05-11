@@ -1,2 +1,2 @@
 # gt-week01-classwork
-classwork for week one of class
+classwork for week one
